@@ -1,4 +1,0 @@
-### Majority of Players
-For the purposes of votes requiring a "Majority of Players", all participants are considered players (including [[The Gamekeeper]]). There is no requirement to meet a quorum of players for the purpose of a vote, excepting any requirements around voting described in the [[The Gamekeeper#votes|votes section of the gamekeeper note]]. The vote passes if at least half of the players assent to the vote.
-### Simple Majority of Players
-For the purposes of votes requiring a "Simple Majority of Players", only game-players are considered players (excluding [[The Gamekeeper]]). There is no requirement to meet a quorum of players for the purpose of a vote, excepting any requirements around voting described in the [[The Gamekeeper#votes|votes section of the gamekeeper note]]. The vote passes if at least half of the players assent to the vote.
